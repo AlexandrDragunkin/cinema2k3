@@ -13,7 +13,7 @@ project:
   toc:
     - file: 001_Cinema.MD
     - file: 002_Cinema.MD
-
+    - file: 003_Cinema.MD
 site:
   template: book-theme
   options:
