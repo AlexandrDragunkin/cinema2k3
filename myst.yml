@@ -15,8 +15,9 @@ project:
     - file: 002_Cinema.MD
     - file: 003_Cinema.MD
     - file: 004_Cinema.MD
+    - file: 005_Cinema.MD
 site:
   template: book-theme
   options:
     favicon: favicon.ico
-    # logo: site_logo1.svg
+    logo: site_logo1.svg
