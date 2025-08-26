@@ -59,7 +59,8 @@ Control=1
 
 Собираем всё в группу и присваиваем группе `$CinemaScr`, `$CinAsseGr`
 
-`$CinemaScr`
+**$CinemaScr**
+
 ```
 Scratch
 Main
